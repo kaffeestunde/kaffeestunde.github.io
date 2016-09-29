@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hallo. Ich bin Kaffee Stunde. Die Zeit jeden Morgens, dass man lust. Es ist mein Blog. 
+Hier schreibe ich auf Deutsch, eine Fremndsprache für mir.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[tollekaffeestunde@gmail.com](mailto:tollekaffeestunde@gmail.com)
