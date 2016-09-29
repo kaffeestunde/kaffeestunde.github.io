@@ -3,9 +3,7 @@ layout: post
 title: Mein Grund
 ---
 
-Warum schreibe ich hier? Heute, bekam ich einen klaren Grund. 
-
-Dieses Sommer enfuhr ich eine lustige erfahrung während einem kochendem heißem Tag. 
+Dieses Sommer enfuhr ich eine lustige Erfahrung während einem kochendem heißem Tag. 
 Ein Restaurant, nah das Studentenwohnheim meines Freundin, empfahl 'EisKaffee', eingentlich ein verucktlicher teuerer Eiskaffee - 6 Euro.
 Aber wie ich beschrieb, es war heiß und weiter hatte meine Freundin ein trockener Durst 
 So bestellten wir zwei.
